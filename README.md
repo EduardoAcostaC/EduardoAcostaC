@@ -3,11 +3,11 @@
   </a>
 </p>
 <h1 align="center">
-  Hi! Welcom to my Profile
+  Hi! Welcome to my Profile
 </h1>
 
 # 💫 About Me:
-🌱 I’m currently learning HTML ,CSS ,JS ,Node MySQL ,PHP ,React ,Angular<br><br>👯 I’m looking to collaborate on Microsoft<br><br>💬 Ask me about HTML ,UX/UI ,CSS , SASS<br><br>📫 How to reach me eduardoaipn@gmail.com
+🌱 I’m currently learning HTML ,CSS ,JS ,Node MySQL ,PHP ,React ,Angular<br><br>👯 I’m looking to collaborate on Microsoft![](https://github.com/microsoft)<br><br>💬 Ask me about HTML ,UX/UI ,CSS , SASS<br><br>📫 How to reach me eduardoaipn@gmail.com
 
 
 ## 🌐 Socials:
@@ -21,10 +21,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoAcostaC&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
- ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)    
 
-
-
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)    
 
 ## 🎶 Hear with
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=edujaguarr&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=edujaguarr&redirect=true)

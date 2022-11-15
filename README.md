@@ -7,7 +7,7 @@
 </h1>
 
 # 💫 About Me:
-🌱 I’m currently learning HTML ,CSS ,JS ,Node MySQL ,PHP ,React ,Angular<br><br>👯 I’m looking to collaborate on Microsoft![](https://github.com/microsoft)<br><br>💬 Ask me about HTML ,UX/UI ,CSS , SASS<br><br>📫 How to reach me eduardoaipn@gmail.com
+🌱 I’m currently learning HTML ,CSS ,JS ,Node MySQL ,PHP ,React ,Angular<br><br>👯 I’m looking to collaborate on ![Microsoft](https://github.com/microsoft)<br><br>💬 Ask me about HTML ,UX/UI ,CSS , SASS<br><br>📫 How to reach me eduardoaipn@gmail.com
 
 
 ## 🌐 Socials:

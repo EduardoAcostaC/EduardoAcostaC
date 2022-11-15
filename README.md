@@ -3,7 +3,7 @@
   </a>
 </p>
 <h1 align="center">
-  Hi! Welcomo to my Profile
+  Hi! Welcom to my Profile
 </h1>
 
 # 💫 About Me:
@@ -22,6 +22,8 @@
 
 ### ✍️ Random Dev Quote
  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)    
+
+
 
 
 ## 🎶 Hear with

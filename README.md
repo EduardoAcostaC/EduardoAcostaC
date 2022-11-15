@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eduardo Acosta Castillo</h1>
 <h3 align="center">A passionate student of web development from Mexico</h3>
 
-- 🌱 I’m currently learning **HTML,CSS,JS,Node,MySQL,PHP,React,Angular**
+- 🌱 I’m currently learning **HTML ,CSS ,JS ,Node MySQL ,PHP ,React ,Angular**
 
-- 👯 I’m looking to collaborate on [Robot Maker Simulator](https://github.com/EduardoAcostaC/RMS)
+- 👯 I’m looking to collaborate on [Microsoft](https://github.com/microsoft)
 
-- 💬 Ask me about **HTML,UX/UI,CSS,SASS**
+- 💬 Ask me about **HTML ,UX/UI ,CSS , SASS**
 
 - 📫 How to reach me **eduardoaipn@gmail.com**
 

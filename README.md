@@ -1,4 +1,4 @@
-<# 💫 About Me:
+# 💫 About Me:
 🌱 I’m currently learning HTML ,CSS ,JS ,Node MySQL ,PHP ,React ,Angular<br><br>👯 I’m looking to collaborate on Microsoft<br><br>💬 Ask me about HTML ,UX/UI ,CSS , SASS<br><br>📫 How to reach me eduardoaipn@gmail.com
 
 
@@ -14,9 +14,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EduardoAcostaC&icon=5&color=3)](https://visitcount.itsvg.in)
